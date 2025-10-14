@@ -103,6 +103,35 @@ city='pondy'
 
 #  Check Positive, Negative, or Zero
 <img width="1367" height="296" alt="Screenshot 2025-10-13 190124" src="https://github.com/user-attachments/assets/6f037840-027f-4fa5-9e37-e6862ea6d340" />
+# loop statements:
+* For Loop
+The for loop is used to iterate over a sequence (like a list, tuple, or range) and execute a block of code multiple times.
+<img width="1331" height="354" alt="Screenshot 2025-10-14 184051" src="https://github.com/user-attachments/assets/c56628da-1ad6-4d87-9a97-177782e74a2a" />
+<img width="1430" height="262" alt="Screenshot 2025-10-14 184132" src="https://github.com/user-attachments/assets/cf87e01f-50b5-4865-bb70-aa7784578c9f" />
+<img width="1281" height="318" alt="Screenshot 2025-10-14 184245" src="https://github.com/user-attachments/assets/8afa53b3-141f-44ac-af79-661ccf57b604" />
+# while loop:
+The while loop repeats a block of code as long as a condition is True.
+<img width="1210" height="295" alt="Screenshot 2025-10-14 185013" src="https://github.com/user-attachments/assets/f426d5d7-7188-44b1-acdc-98444dee6870" />
+<img width="1303" height="369" alt="Screenshot 2025-10-14 185307" src="https://github.com/user-attachments/assets/59c0bacb-5096-4b3f-ad87-e9e9a549d025" />
+# 6 Functions and modules:
+# 6.1 Functions:
+A function is a block of code which only runs when it is called.A function can return data as a result.A function helps avoiding code repetition.
+# 6.2 Modules:
+Consider a module to be the same as a code library.A file containing a set of functions you want to include in your application.
+# 7 Data structures:
+
+# 7.1 Lists:
+Lists are used to store multiple items in a single variable.Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.Lists are created using square brackets.
+<img width="1303" height="369" alt="Screenshot 2025-10-14 185307" src="https://github.com/user-attachments/assets/5a63d830-3ae3-4ba0-8c4f-efa8f80e7454" />
+
+# dictionaries
+A dictionary in Python is a collection of key–value pairs. It is unordered (in older versions), mutable, and indexed by keys. Each key must be unique, and it is used to access the value associated with it.
+
+Mutable – You can add, change, or remove items. Unordered 
+
+
+
+
 
 
 
