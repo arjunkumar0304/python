@@ -122,18 +122,45 @@ Consider a module to be the same as a code library.A file containing a set of fu
 
 # 7.1 Lists:
 Lists are used to store multiple items in a single variable.Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.Lists are created using square brackets.
-<img width="1303" height="369" alt="Screenshot 2025-10-14 185307" src="https://github.com/user-attachments/assets/5a63d830-3ae3-4ba0-8c4f-efa8f80e7454" />
+<img width="1469" height="506" alt="Screenshot 2025-10-14 190655" src="https://github.com/user-attachments/assets/4f9e06ce-3866-4eeb-8247-498fe3bdc5b4" />
+
 
 # dictionaries
 A dictionary in Python is a collection of key–value pairs. It is unordered (in older versions), mutable, and indexed by keys. Each key must be unique, and it is used to access the value associated with it.
 
 Mutable – You can add, change, or remove items. Unordered 
+# Tuple
+A tuple is similar to a list, but you cannot change (add, remove, or modify) its elements after creation.
+It is written with round brackets ().
 
+<img width="1447" height="358" alt="Screenshot 2025-10-15 180528" src="https://github.com/user-attachments/assets/20b530d2-6aad-4223-938e-f8df518fd566" />
 
+<img width="1429" height="522" alt="Screenshot 2025-10-15 180848" src="https://github.com/user-attachments/assets/388fb20e-3b72-4834-9dba-4c913bd0d747" />
 
+# set
+A set is a collection of unique items (no duplicates) that is unordered (the items don’t have a fixed position).
+It is written using curly braces {}.
 
+<img width="1584" height="438" alt="Screenshot 2025-10-15 181246" src="https://github.com/user-attachments/assets/74d3463b-59fc-4dc0-8078-5c65245c3deb" />
+<img width="1474" height="423" alt="Screenshot 2025-10-15 181751" src="https://github.com/user-attachments/assets/68a90f6e-0339-4e4e-846b-e38dece1a5ff" />
+# File handling 
+ process of creating, opening, reading, writing, updating, and deleting files using Python’s built-in functions. It allows a program to store data permanently on a storage device, so it can be retrieved or modified later.
 
+Write in it → add new information
 
+Read from it → see the stored information
+
+Append → add more content without erasing existing content
+
+Delete → remove the file completely
+
+Python gives you the tools (functions) to do these operations.| Mode   | What happens                       | Use case                           |
+| ------ | ---------------------------------- | ---------------------------------- |
+| `'r'`  | Only read, error if file not exist | Reading saved data                 |
+| `'w'`  | Write, overwrites if file exists   | Saving new data                    |
+| `'a'`  | Append, adds content at end        | Adding new info without losing old |
+| `'x'`  | Create, fails if file exists       | Create new files safely            |
+| `'r+'` | Read + write                       | Update existing files              |
 
 
 
