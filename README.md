@@ -77,15 +77,20 @@ name="arjun"
 * int (10,5)
 * float(1.2,3.3)
 * complex(7+5j)
-* 
-# 2.String:  Used to store text data and enclosed in single or double quotes.
+ 
+# 2.String:
+Used to store text data and enclosed in single or double quotes.
 # Eg:
 name="Arjun"
 city='pondy'
-# 3.Boolean (bool): Used for True or False values.
-# 4.List: Used to store multiple values in one variable.
-# 5.Tuple: Similar to a list, but unchangeable (immutable).
-# 6. Dictionary (dict): Stores data in key value pairs
+# 3.Boolean (bool):
+Used for True or False values.
+# 4.List:
+Used to store multiple values in one variable.
+# 5.Tuple:
+Similar to a list, but unchangeable (immutable).
+# 6. Dictionary (dict): 
+Stores data in key value pairs
 <img width="1298" height="364" alt="Screenshot 2025-10-13 184958" src="https://github.com/user-attachments/assets/03640a2d-8526-4847-bd2f-8cfd6c11ed4f" />
 
 # 4.2 Control Flow (if, else, elif)
@@ -113,11 +118,14 @@ The for loop is used to iterate over a sequence (like a list, tuple, or range) a
 The while loop repeats a block of code as long as a condition is True.
 <img width="1210" height="295" alt="Screenshot 2025-10-14 185013" src="https://github.com/user-attachments/assets/f426d5d7-7188-44b1-acdc-98444dee6870" />
 <img width="1303" height="369" alt="Screenshot 2025-10-14 185307" src="https://github.com/user-attachments/assets/59c0bacb-5096-4b3f-ad87-e9e9a549d025" />
+
 # 6 Functions and modules:
+
 # 6.1 Functions:
 A function is a block of code which only runs when it is called.A function can return data as a result.A function helps avoiding code repetition.
 # 6.2 Modules:
 Consider a module to be the same as a code library.A file containing a set of functions you want to include in your application.
+
 # 7 Data structures:
 
 # 7.1 Lists:
@@ -143,8 +151,9 @@ It is written using curly braces {}.
 
 <img width="1584" height="438" alt="Screenshot 2025-10-15 181246" src="https://github.com/user-attachments/assets/74d3463b-59fc-4dc0-8078-5c65245c3deb" />
 <img width="1474" height="423" alt="Screenshot 2025-10-15 181751" src="https://github.com/user-attachments/assets/68a90f6e-0339-4e4e-846b-e38dece1a5ff" />
+
 # File handling 
- process of creating, opening, reading, writing, updating, and deleting files using Python’s built-in functions. It allows a program to store data permanently on a storage device, so it can be retrieved or modified later.
+process of creating, opening, reading, writing, updating, and deleting files using Python’s built-in functions. It allows a program to store data permanently on a storage device, so it can be retrieved or modified later.
 
 Write in it → add new information
 
@@ -154,13 +163,52 @@ Append → add more content without erasing existing content
 
 Delete → remove the file completely
 
-Python gives you the tools (functions) to do these operations.| Mode   | What happens                       | Use case                           |
-| ------ | ---------------------------------- | ---------------------------------- |
-| `'r'`  | Only read, error if file not exist | Reading saved data                 |
-| `'w'`  | Write, overwrites if file exists   | Saving new data                    |
-| `'a'`  | Append, adds content at end        | Adding new info without losing old |
-| `'x'`  | Create, fails if file exists       | Create new files safely            |
-| `'r+'` | Read + write                       | Update existing files              |
+Python gives you the tools (functions) to do these operations
+
+*  `'r'`   Only read, error if file not exist    Reading saved data                 
+*  `'w'`    Write, overwrites if file exists        Saving new data                    
+*  `'a'`     Append, adds content at end             Adding new info without losing old 
+* `'x'`    Create, fails if file exists            Create new files safely            
+* `'r+'`    Read + write                             Update existing files
+
+# OOPS:
+OOP (Object-Oriented Programming) is a programming paradigm based on the concept of “objects”, which contain data (attributes) and functions (methods) that operate on that data.
+
+# Class:
+A blueprint for creating objects.
+# Object:
+An instance of a class.
+<img width="1505" height="1028" alt="Screenshot 2025-10-16 174310" src="https://github.com/user-attachments/assets/610e73c0-ce66-4ceb-9cb4-a4e14a4b6fe7" />
+
+
+# Encapsulation:
+Hiding data and methods inside a class.
+
+# Inheritance:
+One class can inherit properties of another.
+<img width="1160" height="1028" alt="Screenshot 2025-10-16 174647" src="https://github.com/user-attachments/assets/86dba9ee-ae75-4f13-bc7b-acf0585cfd3d" />
+
+
+# Polymorphism:
+Same method name can have different behaviors.
+<img width="1106" height="1070" alt="Screenshot 2025-10-16 175201" src="https://github.com/user-attachments/assets/d5059df5-9221-43c5-9d0c-ec36b1892d50" />
+
+
+# Abstraction:
+Hiding complex details and showing only the essential
+
+# Error handling
+handle runtime errors (errors that occur while a program is running) so that the program does not crash unexpectedly.
+* try  Code that might cause an error
+* except  Code to handle the error
+* else  Runs only if no error occurs
+* finally  Runs always, even if there’s an error
+
+<img width="1134" height="1032" alt="Screenshot 2025-10-16 180646" src="https://github.com/user-attachments/assets/6960e2a4-b5b8-40b7-911b-a3e8fdec5aa7" />
+
+<img width="1029" height="997" alt="Screenshot 2025-10-16 180900" src="https://github.com/user-attachments/assets/17e9e518-a713-403e-aa22-8f9f1054ccc5" />
+
+
 
 
 
