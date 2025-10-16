@@ -208,7 +208,8 @@ handle runtime errors (errors that occur while a program is running) so that the
 
 <img width="1029" height="997" alt="Screenshot 2025-10-16 180900" src="https://github.com/user-attachments/assets/17e9e518-a713-403e-aa22-8f9f1054ccc5" />
 
-
+# decorator
+special function that allows you to add or modify functionality of another function without changing its actual code.
 
 
 
