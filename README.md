@@ -211,5 +211,17 @@ handle runtime errors (errors that occur while a program is running) so that the
 # decorator
 special function that allows you to add or modify functionality of another function without changing its actual code.
 
+<img width="1243" height="1060" alt="Screenshot 2025-10-17 174851" src="https://github.com/user-attachments/assets/3e7369eb-7d68-47b4-bad3-2158582ce83f" />
+
+# generator 
+special type of function that returns values one at a time using the yield keyword, instead of returning them all at once like return.
+<img width="1189" height="1047" alt="Screenshot 2025-10-17 175141" src="https://github.com/user-attachments/assets/6b9f832a-9b7d-4fe3-be40-ffcdae0f8361" />
+
+# lambda function
+small anonymous (unnamed) function used for short and simple operations.
+It is mainly used when we need a function for a short time and do not want to formally define it using def.
+<img width="1309" height="1009" alt="Screenshot 2025-10-17 175457" src="https://github.com/user-attachments/assets/43d73e13-605e-4232-8685-ef8ecc4adc98" />
+
+
 
 
