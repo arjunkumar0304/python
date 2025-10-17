@@ -222,6 +222,9 @@ small anonymous (unnamed) function used for short and simple operations.
 It is mainly used when we need a function for a short time and do not want to formally define it using def.
 <img width="1309" height="1009" alt="Screenshot 2025-10-17 175457" src="https://github.com/user-attachments/assets/43d73e13-605e-4232-8685-ef8ecc4adc98" />
 
+# Unit Testing
+Unit testing means testing individual parts (units) of your program — like functions or classes — to make sure they work correctly.
 
+Think of it like checking each part of a machine before putting the whole thing together.
 
 
