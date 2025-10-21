@@ -225,6 +225,5 @@ It is mainly used when we need a function for a short time and do not want to fo
 # Unit Testing
 Unit testing means testing individual parts (units) of your program — like functions or classes — to make sure they work correctly.
 
-Think of it like checking each part of a machine before putting the whole thing together.
-
+Think<img width="934" height="1079" alt="Screenshot 2025-10-21 183308" src="https://github.com/user-attachments/assets/d387a9b9-3faf-4e9f-a4c3-ab769b5d4d3a" />
 
